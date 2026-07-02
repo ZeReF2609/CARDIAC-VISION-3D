@@ -1,0 +1,17 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+Debug/
+Release/
+Win32/
+*.log
+ipch/
+*.tlog
+
+## ImGui state
+imgui.ini
